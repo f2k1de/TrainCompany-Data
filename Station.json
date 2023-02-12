@@ -1544,6 +1544,252 @@
 			"proj": 3
 		},
 		{
+			"name": "Pont-de-Claix",
+			"ril100": "🇫🇷PDC",
+			"group": 2,
+			"x": -128,
+			"y": 1110,
+			"platformLength": 173,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Jarrie—Vizille",
+			"ril100": "🇫🇷JAV",
+			"group": 2,
+			"x": -122,
+			"y": 1116,
+			"platformLength": 230,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "St-Georges-de-Commiers",
+			"ril100": "🇫🇷SGC",
+			"group": 2,
+			"x": -128,
+			"y": 1123,
+			"platformLength": 163,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "Vif",
+			"ril100": "🇫🇷VIF",
+			"group": 5,
+			"x": -130,
+			"y": 1123,
+			"platformLength": 155,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Monestier-de-Clermont",
+			"ril100": "🇫🇷MDC",
+			"group": 2,
+			"x": -138,
+			"y": 1146,
+			"platformLength": 176,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Clelles—Mens",
+			"ril100": "🇫🇷CMS",
+			"group": 2,
+			"x": -142,
+			"y": 1160,
+			"platformLength": 84,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Lus-la-Croix-Haute",
+			"ril100": "🇫🇷LCX",
+			"group": 2,
+			"x": -130,
+			"y": 1186,
+			"platformLength": 176,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Aspres-sur-Buëch",
+			"ril100": "🇫🇷ASH",
+			"group": 2,
+			"x": -122,
+			"y": 1212,
+			"platformLength": 430,
+			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Veynes—Dévoluy",
+			"ril100": "🇫🇷VDY",
+			"group": 2,
+			"x": -113,
+			"y": 1210,
+			"platformLength": 500,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Serres",
+			"ril100": "🇫🇷SRE",
+			"group": 2,
+			"x": -128,
+			"y": 1228,
+			"platformLength": 160,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Laragne",
+			"ril100": "🇫🇷LRN",
+			"group": 2,
+			"x": -114,
+			"y": 1246,
+			"platformLength": 220,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Sisteron",
+			"ril100": "🇫🇷SIO",
+			"group": 2,
+			"x": -96,
+			"y": 1268,
+			"platformLength": 220,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Chateau-Arnoux-St-Auban",
+			"ril100": "XFCAR",
+			"group": 2,
+			"x": -89,
+			"y": 1290,
+			"platformLength": 249,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "La Brillanne—Oraison",
+			"ril100": "🇫🇷LBO",
+			"group": 2,
+			"x": -105,
+			"y": 1313,
+			"platformLength": 227,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Manosque-Gréoux",
+			"ril100": "🇫🇷O335791342",
+			"group": 2,
+			"x": -119,
+			"y": 1330,
+			"platformLength": 226,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Pertuis",
+			"ril100": "🇫🇷PER",
+			"group": 2,
+			"x": -161,
+			"y": 1353,
+			"platformLength": 110,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Meyrargues",
+			"ril100": "🇫🇷MEY",
+			"group": 2,
+			"x": -156,
+			"y": 1360,
+			"platformLength": 135,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Aix-en-Provence",
+			"ril100": "XFAXP",
+			"group": 1,
+			"x": -170,
+			"y": 1381,
+			"proj": 3
+		},
+		{
+			"name": "Gardanne",
+			"ril100": "XFGA",
+			"group": 2,
+			"x": -167,
+			"y": 1392,
+			"platformLength": 220,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Simiane",
+			"ril100": "🇫🇷SIE",
+			"group": 2,
+			"x": -173,
+			"y": 1396,
+			"platformLength": 172,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Septèmes",
+			"ril100": "🇫🇷SEP",
+			"group": 5,
+			"x": -181,
+			"y": 1401,
+			"platformLength": 171,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Saint-Antoine",
+			"ril100": "🇫🇷O243641091",
+			"group": 5,
+			"x": -183,
+			"y": 1407,
+			"platformLength": 195,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "St-Joseph-le-Castellas",
+			"ril100": "🇫🇷XJC",
+			"group": 2,
+			"x": -180,
+			"y": 1410,
+			"platformLength": 170,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Ste-Marthe-en-Provence",
+			"ril100": "🇫🇷SAH",
+			"group": 2,
+			"x": -178,
+			"y": 1412,
+			"platformLength": 173,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Picon-Busserine",
+			"ril100": "🇫🇷XPC",
+			"group": 2,
+			"x": -178,
+			"y": 1413,
+			"proj": 3
+		},
+		{
 			"name": "Teterevino",
 			"ril100": "🇷🇺O860157743",
 			"group": 2,
@@ -5737,7 +5983,7 @@
 			"platforms": 2
 		},
 		{
-			"name": "Ceske Budejovice",
+			"name": "České Budějovice",
 			"ril100": "XTCB",
 			"group": 0,
 			"x": 1093,
@@ -14662,6 +14908,204 @@
 			"proj": 3
 		},
 		{
+			"name": "Vénissieux",
+			"ril100": "🇫🇷VSX",
+			"group": 5,
+			"x": -239,
+			"y": 1012,
+			"platformLength": 194,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "St-Priest",
+			"ril100": "XFSP",
+			"group": 5,
+			"x": -233,
+			"y": 1015,
+			"platformLength": 147,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "St-Quentin-Fallavier",
+			"ril100": "🇫🇷SQF",
+			"group": 5,
+			"x": -210,
+			"y": 1023,
+			"platformLength": 176,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "La Verpillière",
+			"ril100": "🇫🇷VEI",
+			"group": 2,
+			"x": -203,
+			"y": 1025,
+			"platformLength": 291,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "L'Isle-d'Abeau",
+			"ril100": "🇫🇷ISA",
+			"group": 2,
+			"x": -193,
+			"y": 1028,
+			"platformLength": 195,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Bourgoin-Jallieu",
+			"ril100": "🇫🇷BRG",
+			"group": 2,
+			"x": -186,
+			"y": 1032,
+			"platformLength": 341,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Cessieu",
+			"ril100": "🇫🇷CIU",
+			"group": 2,
+			"x": -171,
+			"y": 1036,
+			"platformLength": 249,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "La Tour-du-Pin",
+			"ril100": "🇫🇷LTP",
+			"group": 2,
+			"x": -161,
+			"y": 1036,
+			"platformLength": 390,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "St-André-le-Gaz",
+			"ril100": "🇫🇷SAG",
+			"group": 2,
+			"x": -151,
+			"y": 1039,
+			"platformLength": 294,
+			"platforms": 10,
+			"proj": 3
+		},
+		{
+			"name": "Virieu-sur-Bourbre",
+			"ril100": "🇫🇷VRB",
+			"group": 5,
+			"x": -158,
+			"y": 1048,
+			"platformLength": 172,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Chabons",
+			"ril100": "🇫🇷CKN",
+			"group": 5,
+			"x": -165,
+			"y": 1057,
+			"platformLength": 164,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Le Grand-Lemps",
+			"ril100": "🇫🇷LGL",
+			"group": 2,
+			"x": -165,
+			"y": 1064,
+			"platformLength": 298,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Beaucroissant",
+			"ril100": "🇫🇷74723",
+			"group": 5,
+			"x": -160,
+			"y": 1074,
+			"proj": 3
+		},
+		{
+			"name": "Rives",
+			"ril100": "🇫🇷RIV",
+			"group": 2,
+			"x": -156,
+			"y": 1070,
+			"platformLength": 500,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Reaumont—St-Cassien",
+			"ril100": "🇫🇷RCS",
+			"group": 5,
+			"x": -150,
+			"y": 1068,
+			"platformLength": 157,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Voiron",
+			"ril100": "🇫🇷VOR",
+			"group": 5,
+			"x": -141,
+			"y": 1069,
+			"platformLength": 400,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Moirans",
+			"ril100": "🇫🇷MOA",
+			"group": 1,
+			"x": -143,
+			"y": 1076,
+			"platformLength": 324,
+			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Voreppe",
+			"ril100": "🇫🇷VPE",
+			"group": 5,
+			"x": -137,
+			"y": 1082,
+			"platformLength": 166,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "St-Egrève—St-Robert",
+			"ril100": "🇫🇷SEG",
+			"group": 5,
+			"x": -131,
+			"y": 1091,
+			"platformLength": 163,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Grenoble",
+			"ril100": "XFG",
+			"group": 1,
+			"x": -125,
+			"y": 1098,
+			"platformLength": 472,
+			"platforms": 6,
+			"proj": 3
+		},
+		{
 			"group": 2,
 			"name": "Oelde",
 			"ril100": "EOEL",
@@ -18958,7 +19402,7 @@
 		{
 			"name": "Devinska Nova Ves",
 			"ril100": "XYDN",
-			"group": 5,
+			"group": 2,
 			"x": 1438,
 			"y": 591,
 			"proj": 3
@@ -18969,7 +19413,9 @@
 			"group": 0,
 			"x": 1457,
 			"y": 599,
-			"proj": 3
+			"proj": 3,
+			"platformLength": 341,
+			"platforms": 10
 		},
 		{
 			"name": "Bratislava-Vajnory",
@@ -23226,14 +23672,6 @@
 			"proj": 3
 		},
 		{
-			"name": "Breclav",
-			"ril100": "XTBE",
-			"group": 1,
-			"x": 1424,
-			"y": 500,
-			"proj": 3
-		},
-		{
 			"name": "Hergenrath",
 			"ril100": "XBHE",
 			"group": 2,
@@ -25670,66 +26108,6 @@
 			"proj": 3
 		},
 		{
-			"group": 2,
-			"name": "Rohrbach (Ilm)",
-			"ril100": "MRBI",
-			"x": 692,
-			"y": 523,
-			"platformLength": 273,
-			"platforms": 2,
-			"proj": 3
-		},
-		{
-			"group": 2,
-			"name": "Pfaffenhofen (Ilm)",
-			"ril100": "MPF",
-			"x": 684,
-			"y": 537,
-			"platformLength": 285,
-			"platforms": 2,
-			"proj": 3
-		},
-		{
-			"group": 1,
-			"name": "Petershausen (Oberbayern)",
-			"ril100": "MPE",
-			"x": 678,
-			"y": 556,
-			"platformLength": 295,
-			"platforms": 4,
-			"proj": 3
-		},
-		{
-			"group": 1,
-			"name": "Dachau Bahnhof",
-			"ril100": "MDA",
-			"x": 675,
-			"y": 573,
-			"platformLength": 360,
-			"platforms": 5,
-			"proj": 3
-		},
-		{
-			"group": 2,
-			"name": "München-Allach",
-			"ril100": "MMAL",
-			"x": 678,
-			"y": 586,
-			"platformLength": 220,
-			"platforms": 2,
-			"proj": 3
-		},
-		{
-			"group": 5,
-			"name": "München-Obermenzing",
-			"ril100": "MOZ",
-			"x": 679,
-			"y": 597,
-			"platformLength": 210,
-			"platforms": 2,
-			"proj": 3
-		},
-		{
 			"group": 0,
 			"name": "München Hbf",
 			"ril100": "MH",
@@ -26255,7 +26633,7 @@
 			"ril100": "XAI",
 			"x": 661,
 			"y": 750,
-			"platformLength": 250,
+			"platformLength": 521,
 			"platforms": 11,
 			"proj": 3
 		},
@@ -36817,6 +37195,66 @@
 			"proj": 3
 		},
 		{
+			"name": "Echirolles",
+			"ril100": "🇫🇷EHR",
+			"group": 5,
+			"x": -125,
+			"y": 1105,
+			"platformLength": 216,
+			"platforms": 9,
+			"proj": 3
+		},
+		{
+			"name": "Grenoble Universités Gières",
+			"ril100": "🇫🇷GRS",
+			"group": 2,
+			"x": -115,
+			"y": 1100,
+			"platformLength": 330,
+			"platforms": 9,
+			"proj": 3
+		},
+		{
+			"name": "Lancey",
+			"ril100": "🇫🇷LCW",
+			"group": 2,
+			"x": -102,
+			"y": 1091,
+			"platformLength": 220,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Brignoud",
+			"ril100": "🇫🇷BNU",
+			"group": 2,
+			"x": -99,
+			"y": 1086,
+			"platformLength": 197,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Goncelin",
+			"ril100": "🇫🇷GOC",
+			"group": 2,
+			"x": -88,
+			"y": 1073,
+			"platformLength": 195,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Pontcharra sur Bréda",
+			"ril100": "🇫🇷O2317665274",
+			"group": 2,
+			"x": -83,
+			"y": 1057,
+			"platformLength": 242,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
 			"group": 5,
 			"name": "Laufenburg (Baden) Ost",
 			"ril100": "RLBO",
@@ -46800,14 +47238,6 @@
 			"proj": 3
 		},
 		{
-			"name": "Brno Hlavni Nadrazi",
-			"ril100": "XTBR",
-			"group": 0,
-			"x": 1382,
-			"y": 426,
-			"proj": 3
-		},
-		{
 			"name": "Adamov",
 			"ril100": "🇨🇿33015",
 			"group": 5,
@@ -46848,12 +47278,14 @@
 			"proj": 3
 		},
 		{
-			"name": "Ceska Trebova",
+			"name": "Česká Třebová",
 			"ril100": "XTTR",
 			"group": 1,
 			"x": 1355,
 			"y": 309,
-			"proj": 3
+			"proj": 3,
+			"platformLength": 384,
+			"platforms": 9
 		},
 		{
 			"name": "Salone",
@@ -54026,6 +54458,146 @@
 			"proj": 3
 		},
 		{
+			"name": "Baar-Ebenhausen",
+			"ril100": "MBAE",
+			"group": 5,
+			"x": 677,
+			"y": 513,
+			"platformLength": 280,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Rohrbach (Ilm)",
+			"ril100": "MRBI",
+			"group": 2,
+			"x": 693,
+			"y": 525,
+			"platformLength": 273,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Pfaffenhofen (Ilm)",
+			"ril100": "MPF",
+			"group": 2,
+			"x": 685,
+			"y": 538,
+			"platformLength": 285,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Reichertshausen (Ilm)",
+			"ril100": "MRS",
+			"group": 5,
+			"x": 684,
+			"y": 547,
+			"platformLength": 273,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Paindorf",
+			"ril100": "MPD",
+			"group": 5,
+			"x": 681,
+			"y": 552,
+			"platformLength": 282,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Petershausen (Oberbay)",
+			"ril100": "MPE",
+			"group": 1,
+			"x": 679,
+			"y": 557,
+			"platformLength": 295,
+			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Vierkirchen-Esterhofen",
+			"ril100": "MESH",
+			"group": 5,
+			"x": 676,
+			"y": 565,
+			"platformLength": 215,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Röhrmoos",
+			"ril100": "MRMS",
+			"group": 5,
+			"x": 676,
+			"y": 570,
+			"platformLength": 210,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Hebertshausen",
+			"ril100": "MHSN",
+			"group": 5,
+			"x": 677,
+			"y": 577,
+			"platformLength": 210,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Dachau Bahnhof",
+			"ril100": "MDA",
+			"group": 2,
+			"x": 676,
+			"y": 583,
+			"platformLength": 360,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "München-Karlsfeld",
+			"ril100": "MKFS",
+			"group": 5,
+			"x": 678,
+			"y": 590,
+			"platformLength": 260,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "München-Allach",
+			"ril100": "MMAL",
+			"group": 2,
+			"x": 679,
+			"y": 594,
+			"platformLength": 220,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "München-Untermenzing",
+			"ril100": "MAUG",
+			"group": 5,
+			"x": 680,
+			"y": 596,
+			"platformLength": 210,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "München-Obermenzing",
+			"ril100": "MOZ",
+			"group": 5,
+			"x": 680,
+			"y": 598,
+			"platformLength": 210,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
 			"group": 5,
 			"name": "Westendorf",
 			"ril100": "XAWD",
@@ -56309,7 +56881,1733 @@
 			"group": 0,
 			"x": 1703,
 			"y": 249,
+			"proj": 3,
+			"platformLength": 400,
+			"platforms": 8
+		},
+		{
+			"name": "Tychy",
+			"ril100": "XPTY",
+			"group": 1,
+			"x": 1697,
+			"y": 270,
+			"proj": 3,
+			"platformLength": 6,
+			"platforms": 244
+		},
+		{
+			"name": "Tychy Żwaków",
+			"ril100": "🇵🇱O3689421986",
+			"group": 5,
+			"x": 1696,
+			"y": 274,
+			"proj": 3,
+			"platformLength": 217,
+			"platforms": 2
+		},
+		{
+			"name": "Kobiór",
+			"ril100": "🇵🇱O1509288904",
+			"group": 5,
+			"x": 1692,
+			"y": 281,
+			"proj": 3,
+			"platformLength": 200,
+			"platforms": 2
+		},
+		{
+			"name": "Piasek",
+			"ril100": "🇵🇱O3689549653",
+			"group": 5,
+			"x": 1695,
+			"y": 290,
+			"proj": 3,
+			"platformLength": 201,
+			"platforms": 2
+		},
+		{
+			"name": "Pszczyna",
+			"ril100": "🇵🇱O2473137378",
+			"group": 2,
+			"x": 1697,
+			"y": 296,
+			"proj": 3,
+			"platformLength": 305,
+			"platforms": 3
+		},
+		{
+			"name": "Goczałkowice",
+			"ril100": "🇵🇱O3690981263",
+			"group": 5,
+			"x": 1699,
+			"y": 301,
+			"proj": 3,
+			"platformLength": 202,
+			"platforms": 2
+		},
+		{
+			"name": "Goczałkowice Zdrój",
+			"ril100": "🇵🇱O2514287368",
+			"group": 5,
+			"x": 1701,
+			"y": 303,
+			"proj": 3,
+			"platformLength": 248,
+			"platforms": 2
+		},
+		{
+			"name": "Zabrzeg",
+			"ril100": "🇵🇱O8088496654",
+			"group": 5,
+			"x": 1696,
+			"y": 307,
+			"proj": 3,
+			"platformLength": 200,
+			"platforms": 2
+		},
+		{
+			"name": "Zabrzeg Czarnolesie",
+			"ril100": "🇵🇱O1875532846",
+			"group": 2,
+			"x": 1691,
+			"y": 308,
+			"proj": 3,
+			"platformLength": 211,
+			"platforms": 2
+		},
+		{
+			"name": "Chybie",
+			"ril100": "🇵🇱O655388124",
+			"group": 2,
+			"x": 1678,
+			"y": 310,
+			"proj": 3,
+			"platformLength": 300,
+			"platforms": 4
+		},
+		{
+			"name": "Drogomyśl",
+			"ril100": "🇵🇱O2182784360",
+			"group": 5,
+			"x": 1671,
+			"y": 311,
+			"proj": 3,
+			"platformLength": 120,
+			"platforms": 2
+		},
+		{
+			"name": "Pruchna",
+			"ril100": "🇵🇱O1753725163",
+			"group": 2,
+			"x": 1662,
+			"y": 312,
+			"proj": 3,
+			"platformLength": 200,
+			"platforms": 2
+		},
+		{
+			"name": "Zebrzydowice",
+			"ril100": "XPZD",
+			"group": 2,
+			"x": 1653,
+			"y": 314,
+			"proj": 3,
+			"platformLength": 390,
+			"platforms": 5
+		},
+		{
+			"name": "Petrovice u Karviné",
+			"ril100": "XTPK",
+			"group": 2,
+			"x": 1643,
+			"y": 310,
+			"proj": 3,
+			"platformLength": 405,
+			"platforms": 3
+		},
+		{
+			"name": "Závada",
+			"ril100": "🇨🇿5434534",
+			"group": 5,
+			"x": 1637,
+			"y": 309,
+			"proj": 3,
+			"platformLength": 68,
+			"platforms": 2
+		},
+		{
+			"name": "Dětmarovice",
+			"ril100": "🇨🇿33274",
+			"group": 2,
+			"x": 1631,
+			"y": 309,
+			"proj": 3,
+			"platformLength": 256,
+			"platforms": 4
+		},
+		{
+			"name": "Dolní Lutyně",
+			"ril100": "🇨🇿5434134",
+			"group": 5,
+			"x": 1624,
+			"y": 307,
+			"proj": 3,
+			"platformLength": 256,
+			"platforms": 2
+		},
+		{
+			"name": "Bohumín",
+			"ril100": "🇨🇿34124",
+			"group": 1,
+			"x": 1617,
+			"y": 309,
+			"proj": 3,
+			"platformLength": 448,
+			"platforms": 8
+		},
+		{
+			"name": "Ostrava hlavní nádraží",
+			"ril100": "XTOH",
+			"group": 1,
+			"x": 1605,
+			"y": 317,
+			"platformLength": 353,
+			"platforms": 8,
 			"proj": 3
+		},
+		{
+			"name": "Polanka nad Odrou",
+			"ril100": "🇨🇿34454",
+			"group": 5,
+			"x": 1595,
+			"y": 329,
+			"proj": 3,
+			"platformLength": 206,
+			"platforms": 2
+		},
+		{
+			"name": "Jistebník",
+			"ril100": "🇨🇿33654",
+			"group": 2,
+			"x": 1590,
+			"y": 334,
+			"proj": 3,
+			"platformLength": 219,
+			"platforms": 4
+		},
+		{
+			"name": "Studénka",
+			"ril100": "XTSA",
+			"group": 1,
+			"x": 1578,
+			"y": 341,
+			"proj": 3,
+			"platformLength": 400,
+			"platforms": 5
+		},
+		{
+			"name": "Hladké Životice",
+			"ril100": "🇨🇿33494",
+			"group": 5,
+			"x": 1568,
+			"y": 346,
+			"proj": 3,
+			"platformLength": 206,
+			"platforms": 2
+		},
+		{
+			"name": "Suchdol nad Odrou",
+			"ril100": "XTSU",
+			"group": 1,
+			"x": 1561,
+			"y": 352,
+			"proj": 3,
+			"platformLength": 399,
+			"platforms": 7
+		},
+		{
+			"name": "Jeseník nad Odrou",
+			"ril100": "🇨🇿34824",
+			"group": 5,
+			"x": 1557,
+			"y": 356,
+			"proj": 3,
+			"platformLength": 205,
+			"platforms": 2
+		},
+		{
+			"name": "Polom",
+			"ril100": "🇨🇿34544",
+			"group": 2,
+			"x": 1551,
+			"y": 363,
+			"proj": 3,
+			"platformLength": 192,
+			"platforms": 4
+		},
+		{
+			"name": "Bělotín",
+			"ril100": "🇨🇿34554",
+			"group": 5,
+			"x": 1543,
+			"y": 361,
+			"proj": 3,
+			"platformLength": 196,
+			"platforms": 2
+		},
+		{
+			"name": "Hranice na Moravě",
+			"ril100": "XTHM",
+			"group": 1,
+			"x": 1535,
+			"y": 364,
+			"platformLength": 449,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "Drahotuše",
+			"ril100": "🇨🇿33472",
+			"group": 2,
+			"x": 1527,
+			"y": 367,
+			"proj": 3,
+			"platformLength": 227,
+			"platforms": 4
+		},
+		{
+			"name": "Lipník nad Bečvou",
+			"ril100": "🇨🇿34042",
+			"group": 2,
+			"x": 1512,
+			"y": 370,
+			"proj": 3,
+			"platformLength": 313,
+			"platforms": 4
+		},
+		{
+			"name": "Osek nad Bečvou",
+			"ril100": "🇨🇿34642",
+			"group": 5,
+			"x": 1505,
+			"y": 373,
+			"proj": 3,
+			"platformLength": 189,
+			"platforms": 2
+		},
+		{
+			"name": "Prosenice",
+			"ril100": "🇨🇿34652",
+			"group": 2,
+			"x": 1500,
+			"y": 375,
+			"proj": 3,
+			"platformLength": 202,
+			"platforms": 3
+		},
+		{
+			"name": "Přerov",
+			"ril100": "XTPR",
+			"group": 1,
+			"x": 1495,
+			"y": 384,
+			"proj": 3,
+			"platformLength": 455,
+			"platforms": 9
+		},
+		{
+			"name": "Rokytnice u Přerova",
+			"ril100": "🇨🇿33152",
+			"group": 5,
+			"x": 1485,
+			"y": 382,
+			"proj": 3,
+			"platformLength": 198,
+			"platforms": 2
+		},
+		{
+			"name": "Brodek u Přerova",
+			"ril100": "🇨🇿33142",
+			"group": 2,
+			"x": 1480,
+			"y": 378,
+			"proj": 3,
+			"platformLength": 216,
+			"platforms": 4
+		},
+		{
+			"name": "Grygov",
+			"ril100": "🇨🇿33482",
+			"group": 2,
+			"x": 1476,
+			"y": 370,
+			"proj": 3,
+			"platformLength": 239,
+			"platforms": 4
+		},
+		{
+			"name": "Olomouc Hlavni Nadrazi",
+			"ril100": "XTO",
+			"group": 1,
+			"x": 1472,
+			"y": 360,
+			"proj": 3,
+			"platformLength": 400,
+			"platforms": 11
+		},
+		{
+			"name": "Štěpánov",
+			"ril100": "🇨🇿34932",
+			"group": 2,
+			"x": 1463,
+			"y": 347,
+			"proj": 3,
+			"platformLength": 202,
+			"platforms": 4
+		},
+		{
+			"name": "Střeň",
+			"ril100": "🇨🇿34912",
+			"group": 5,
+			"x": 1454,
+			"y": 342,
+			"proj": 3,
+			"platformLength": 180,
+			"plaforms": 2
+		},
+		{
+			"name": "Červenka",
+			"ril100": "🇨🇿33312",
+			"group": 1,
+			"x": 1445,
+			"y": 338,
+			"proj": 3,
+			"platformLength": 276,
+			"plaforms": 5
+		},
+		{
+			"name": "Moravičany",
+			"ril100": "🇨🇿34292",
+			"group": 2,
+			"x": 1428,
+			"y": 332,
+			"proj": 3,
+			"platformLength": 170,
+			"plaforms": 3
+		},
+		{
+			"name": "Mohelnice",
+			"ril100": "🇨🇿34282",
+			"group": 2,
+			"x": 1424,
+			"y": 329,
+			"proj": 3,
+			"platformLength": 269,
+			"platforms": 5
+		},
+		{
+			"name": "Lukavice na Moravě",
+			"ril100": "🇨🇿34162",
+			"group": 2,
+			"x": 1421,
+			"y": 321,
+			"proj": 3,
+			"platformLength": 177,
+			"platforms": 3
+		},
+		{
+			"name": "Zabreh na Morave",
+			"ril100": "XTZM",
+			"group": 1,
+			"x": 1416,
+			"y": 313,
+			"proj": 3,
+			"platformLength": 457,
+			"platforms": 6
+		},
+		{
+			"name": "Lupěné",
+			"ril100": "🇨🇿53993",
+			"group": 5,
+			"x": 1410,
+			"y": 314,
+			"proj": 3,
+			"platformLength": 148,
+			"platforms": 2
+		},
+		{
+			"name": "Hoštejn",
+			"ril100": "🇨🇿53983",
+			"group": 5,
+			"x": 1401,
+			"y": 313,
+			"proj": 3,
+			"platformLength": 149,
+			"plaforms": 2
+		},
+		{
+			"name": "Tatenice",
+			"ril100": "🇨🇿53973",
+			"group": 5,
+			"x": 1392,
+			"y": 316,
+			"proj": 3,
+			"platformLength": 156,
+			"plaforms": 2
+		},
+		{
+			"name": "Krasíkov",
+			"ril100": "🇨🇿53963",
+			"group": 2,
+			"x": 1390,
+			"y": 317,
+			"proj": 3,
+			"platformLength": 135,
+			"platforms": 2
+		},
+		{
+			"name": "Žichlínek",
+			"ril100": "🇨🇿53953",
+			"group": 5,
+			"x": 1385,
+			"y": 315,
+			"proj": 3,
+			"platformLength": 140,
+			"platforms": 2
+		},
+		{
+			"name": "Luková u Rudoltic v Čechách",
+			"ril100": "🇨🇿54003",
+			"group": 5,
+			"x": 1378,
+			"y": 312,
+			"proj": 3,
+			"platformLength": 139,
+			"platforms": 2
+		},
+		{
+			"name": "Rudoltice v Čechách",
+			"ril100": "🇨🇿53943",
+			"group": 2,
+			"x": 1373,
+			"y": 310,
+			"proj": 3,
+			"platformLength": 150,
+			"platforms": 6
+		},
+		{
+			"name": "Třebovice v Čechách",
+			"ril100": "🇨🇿53933",
+			"group": 2,
+			"x": 1363,
+			"y": 316,
+			"proj": 3,
+			"platformLength": 168,
+			"platforms": 6
+		},
+		{
+			"name": "Věžky",
+			"ril100": "🇨🇿34115",
+			"group": 2,
+			"x": 1492,
+			"y": 391,
+			"proj": 3,
+			"platformLength": 196,
+			"platforms": 2
+		},
+		{
+			"name": "Chropyně",
+			"ril100": "🇨🇿34105",
+			"group": 2,
+			"x": 1484,
+			"y": 397,
+			"proj": 3,
+			"platformLength": 241,
+			"platforms": 5
+		},
+		{
+			"name": "Kojetín",
+			"ril100": "🇨🇿34306",
+			"group": 2,
+			"x": 1477,
+			"y": 401,
+			"proj": 3,
+			"platformLength": 380,
+			"platforms": 4
+		},
+		{
+			"name": "Měrovice nad Hanou",
+			"ril100": "🇨🇿34326",
+			"group": 5,
+			"x": 1469,
+			"y": 401,
+			"proj": 3,
+			"platformLength": 220,
+			"platforms": 1
+		},
+		{
+			"name": "Němčice nad Hanou",
+			"ril100": "🇨🇿35235",
+			"group": 2,
+			"x": 1465,
+			"y": 401,
+			"proj": 3,
+			"platformLength": 135,
+			"platforms": 3
+		},
+		{
+			"name": "Nezamyslice",
+			"ril100": "🇨🇿35285",
+			"group": 2,
+			"x": 1457,
+			"y": 403,
+			"proj": 3,
+			"platformLength": 373,
+			"platforms": 5
+		},
+		{
+			"name": "Chvalkovice na Hané",
+			"ril100": "🇨🇿35295",
+			"group": 5,
+			"x": 1451,
+			"y": 405,
+			"proj": 3,
+			"platformLength": 147,
+			"platforms": 1
+		},
+		{
+			"name": "Ivanovice na Hané",
+			"ril100": "🇨🇿34145",
+			"group": 2,
+			"x": 1447,
+			"y": 408,
+			"proj": 3,
+			"platformLength": 265,
+			"platforms": 5
+		},
+		{
+			"name": "Hoštice-Heroltice",
+			"ril100": "🇨🇿34155",
+			"group": 5,
+			"x": 1444,
+			"y": 410,
+			"proj": 3,
+			"platformLength": 211,
+			"platforms": 1
+		},
+		{
+			"name": "Vyškov na Moravě",
+			"ril100": "🇨🇿36895",
+			"group": 2,
+			"x": 1434,
+			"y": 412,
+			"proj": 3,
+			"platformLength": 393,
+			"platforms": 5
+		},
+		{
+			"name": "Luleč",
+			"ril100": "🇨🇿34815",
+			"group": 2,
+			"x": 1425,
+			"y": 417,
+			"proj": 3,
+			"platformLength": 128,
+			"platforms": 2
+		},
+		{
+			"name": "Komořany u Vyškova",
+			"ril100": "🇨🇿O3305512300",
+			"group": 6,
+			"x": 1422,
+			"y": 423,
+			"proj": 3
+		},
+		{
+			"name": "Rousínov",
+			"ril100": "🇨🇿35905",
+			"group": 5,
+			"x": 1418,
+			"y": 426,
+			"proj": 3,
+			"platformLength": 160,
+			"platforms": 2
+		},
+		{
+			"name": "Holubice",
+			"ril100": "🇨🇿O3320811574",
+			"group": 6,
+			"x": 1412,
+			"y": 429,
+			"proj": 3
+		},
+		{
+			"name": "Ponětovice",
+			"ril100": "🇨🇿36355",
+			"group": 5,
+			"x": 1402,
+			"y": 433,
+			"proj": 3,
+			"platformLength": 170,
+			"platforms": 2
+		},
+		{
+			"name": "Blažovice",
+			"ril100": "🇨🇿33125",
+			"group": 2,
+			"x": 1409,
+			"y": 431,
+			"proj": 3,
+			"platformLength": 177,
+			"platforms": 3
+		},
+		{
+			"name": "Šlapanice",
+			"ril100": "🇨🇿36345",
+			"group": 2,
+			"x": 1399,
+			"y": 433,
+			"proj": 3,
+			"platformLength": 170,
+			"platforms": 1
+		},
+		{
+			"name": "Brno-Slatina",
+			"ril100": "🇨🇿33365",
+			"group": 5,
+			"x": 1393,
+			"y": 431,
+			"proj": 3,
+			"platformLength": 172,
+			"plaforms": 3
+		},
+		{
+			"name": "Brno Hlavni Nadrazi",
+			"ril100": "XTBR",
+			"group": 0,
+			"x": 1383,
+			"y": 427,
+			"platformLength": 379,
+			"platforms": 13,
+			"proj": 3
+		},
+		{
+			"name": "Břeclav",
+			"ril100": "XTBE",
+			"group": 1,
+			"x": 1424,
+			"y": 500,
+			"proj": 3,
+			"platformLength": 509,
+			"platforms": 10
+		},
+		{
+			"name": "Lanzhot",
+			"ril100": "XTLZ",
+			"group": 2,
+			"x": 1434,
+			"y": 503,
+			"proj": 3,
+			"platformLength": 176,
+			"platforms": 3
+		},
+		{
+			"name": "Brodské",
+			"ril100": "XYBO",
+			"group": 5,
+			"x": 1442,
+			"y": 510,
+			"platformLength": 150,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Kuty",
+			"ril100": "XYKU",
+			"group": 2,
+			"x": 1446,
+			"y": 515,
+			"proj": 3,
+			"platformLength": 303,
+			"platforms": 5
+		},
+		{
+			"name": "Sekule",
+			"ril100": "🇸🇰O282377198",
+			"group": 2,
+			"x": 1442,
+			"y": 524,
+			"proj": 3,
+			"platformLength": 254,
+			"platforms": 3
+		},
+		{
+			"name": "Moravský Svätý Ján",
+			"ril100": "🇸🇰O2893302325",
+			"group": 5,
+			"x": 1441,
+			"y": 528,
+			"platformLength": 269,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Závod",
+			"ril100": "🇸🇰O3334032454",
+			"group": 5,
+			"x": 1441,
+			"y": 536,
+			"platformLength": 123,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Veľké Leváre",
+			"ril100": "🇸🇰O3334032453",
+			"group": 2,
+			"x": 1443,
+			"y": 541,
+			"proj": 3,
+			"platformLength": 170,
+			"platforms": 4
+		},
+		{
+			"name": "Malacky",
+			"ril100": "XYMA",
+			"group": 2,
+			"x": 1444,
+			"y": 553,
+			"proj": 3,
+			"platformLength": 185,
+			"platforms": 3
+		},
+		{
+			"name": "Plavecký Štvrtok",
+			"ril100": "🇸🇰O282377194",
+			"group": 5,
+			"x": 1442,
+			"y": 563,
+			"platformLength": 260,
+			"platforms": 2,
+			"proj": 3
+		},
+		{
+			"name": "Zohor",
+			"ril100": "XYZO",
+			"group": 2,
+			"x": 1440,
+			"y": 571,
+			"proj": 3,
+			"platformLength": 242,
+			"platforms": 5
+		},
+		{
+			"name": "Devínske Jazero",
+			"ril100": "🇸🇰O682295722",
+			"group": 2,
+			"x": 1437,
+			"y": 584,
+			"platformLength": 195,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Bratislava-Lamač",
+			"ril100": "🇸🇰O2865289058",
+			"group": 5,
+			"x": 1450,
+			"y": 595,
+			"proj": 3,
+			"platformLength": 292,
+			"platforms": 3
+		},
+		{
+			"name": "Bratislava-Železná studienka",
+			"ril100": "🇸🇰O2865289032",
+			"group": 5,
+			"x": 1453,
+			"y": 597,
+			"proj": 3,
+			"platformLength": 184,
+			"platforms": 2
+		},
+		{
+			"name": "Jihlava",
+			"ril100": "XTJV",
+			"group": 1,
+			"x": 1243,
+			"y": 390,
+			"proj": 3,
+			"platformLength": 196,
+			"platforms": 7
+		},
+		{
+			"name": "Malý Beranov",
+			"ril100": "🇨🇿34795",
+			"group": 5,
+			"x": 1247,
+			"y": 392,
+			"proj": 3,
+			"platformLength": 153,
+			"plaforms": 1
+		},
+		{
+			"name": "Luka nad Jihlavou",
+			"ril100": "🇨🇿34785",
+			"group": 2,
+			"x": 1258,
+			"y": 397,
+			"proj": 3,
+			"platformLength": 162,
+			"platforms": 3
+		},
+		{
+			"name": "Bítovčice",
+			"ril100": "🇨🇿34805",
+			"group": 5,
+			"x": 1262,
+			"y": 398,
+			"proj": 3,
+			"platformLength": 111,
+			"platforms": 1
+		},
+		{
+			"name": "Přímělkov",
+			"ril100": "🇨🇿33265",
+			"group": 5,
+			"x": 1263,
+			"y": 401,
+			"proj": 3,
+			"platformLength": 72,
+			"platforms": 1
+		},
+		{
+			"name": "Dolní Smrčné",
+			"ril100": "🇨🇿33275",
+			"group": 5,
+			"x": 1264,
+			"y": 405,
+			"proj": 3,
+			"platformLength": 79,
+			"platforms": 1
+		},
+		{
+			"name": "Bransouze",
+			"ril100": "🇨🇿33255",
+			"group": 2,
+			"x": 1264,
+			"y": 408,
+			"proj": 3,
+			"platformLength": 166,
+			"platforms": 3
+		},
+		{
+			"name": "Číchov",
+			"ril100": "🇨🇿33285",
+			"group": 5,
+			"x": 1266,
+			"y": 412,
+			"proj": 3,
+			"platformLength": 198,
+			"platforms": 1
+		},
+		{
+			"name": "Okříšky",
+			"ril100": "🇨🇿35445",
+			"group": 2,
+			"x": 1267,
+			"y": 417,
+			"proj": 3,
+			"platformLength": 293,
+			"platforms": 6
+		},
+		{
+			"name": "Krahulov",
+			"ril100": "🇨🇿34455",
+			"group": 2,
+			"x": 1272,
+			"y": 423,
+			"proj": 3,
+			"platformLength": 206,
+			"platforms": 3
+		},
+		{
+			"name": "Třebíč-Borovina",
+			"ril100": "🇨🇿36565",
+			"group": 5,
+			"x": 1279,
+			"y": 424,
+			"proj": 3,
+			"platformLength": 135,
+			"platforms": 1
+		},
+		{
+			"name": "Třebíč",
+			"ril100": "🇨🇿36555",
+			"group": 2,
+			"x": 1283,
+			"y": 423,
+			"proj": 3,
+			"platformLength": 317,
+			"platforms": 3
+		},
+		{
+			"name": "Vladislav zastávka",
+			"ril100": "🇨🇿36535",
+			"group": 5,
+			"x": 1296,
+			"y": 423,
+			"proj": 3,
+			"platformLength": 170,
+			"platforms": 1
+		},
+		{
+			"name": "Studenec",
+			"ril100": "🇨🇿36225",
+			"group": 2,
+			"x": 1308,
+			"y": 422,
+			"proj": 3,
+			"platformLength": 336,
+			"platforms": 4
+		},
+		{
+			"name": "Náměšť nad Oslavou",
+			"ril100": "🇨🇿35175",
+			"group": 2,
+			"x": 1319,
+			"y": 424,
+			"proj": 3,
+			"platformLength": 247,
+			"platforms": 3
+		},
+		{
+			"name": "Kralice nad Oslavou",
+			"ril100": "🇨🇿34465",
+			"group": 2,
+			"x": 1327,
+			"y": 427,
+			"proj": 3,
+			"platformLength": 164,
+			"platforms": 2
+		},
+		{
+			"name": "Rapotice",
+			"ril100": "🇨🇿35855",
+			"group": 2,
+			"x": 1334,
+			"y": 428,
+			"proj": 3,
+			"platformLength": 231,
+			"platforms": 3
+		},
+		{
+			"name": "Vysoké Popovice",
+			"ril100": "🇨🇿35865",
+			"group": 5,
+			"x": 1339,
+			"y": 429,
+			"proj": 3,
+			"platformLength": 137,
+			"plaforms": 1
+		},
+		{
+			"name": "Zastávka u Brna",
+			"ril100": "🇨🇿36915",
+			"group": 2,
+			"x": 1348,
+			"y": 427,
+			"proj": 3,
+			"platformLength": 293,
+			"platforms": 5
+		},
+		{
+			"name": "Rosice u Brna",
+			"ril100": "🇨🇿36925",
+			"group": 5,
+			"x": 1352,
+			"y": 429,
+			"proj": 3,
+			"platformLength": 109,
+			"platforms": 1
+		},
+		{
+			"name": "Tetčice",
+			"ril100": "🇨🇿36375",
+			"group": 2,
+			"x": 1355,
+			"y": 430,
+			"proj": 3,
+			"platformLength": 222,
+			"platforms": 4
+		},
+		{
+			"name": "Omice",
+			"ril100": "🇨🇿36385",
+			"group": 5,
+			"x": 1360,
+			"y": 432,
+			"proj": 3,
+			"platformLength": 164,
+			"platforms": 1
+		},
+		{
+			"name": "Střelice",
+			"ril100": "🇨🇿36185",
+			"group": 2,
+			"x": 1366,
+			"y": 433,
+			"proj": 3,
+			"platformLength": 207,
+			"platforms": 4
+		},
+		{
+			"name": "Střelice dolní",
+			"ril100": "🇨🇿36186",
+			"group": 5,
+			"x": 1369,
+			"y": 433,
+			"proj": 3,
+			"platformLength": 170,
+			"platforms": 2
+		},
+		{
+			"name": "Troubsko",
+			"ril100": "🇨🇿36215",
+			"group": 5,
+			"x": 1371,
+			"y": 431,
+			"proj": 3,
+			"platformLength": 170,
+			"platforms": 2
+		},
+		{
+			"name": "Ostopovice",
+			"ril100": "🇨🇿34975",
+			"group": 5,
+			"x": 1374,
+			"y": 431,
+			"proj": 3,
+			"platformLength": 163,
+			"platforms": 2
+		},
+		{
+			"name": "Brno-Starý Lískovec",
+			"ril100": "🇨🇿34976",
+			"group": 5,
+			"x": 1378,
+			"y": 432,
+			"proj": 3,
+			"platformLength": 220,
+			"platforms": 2
+		},
+		{
+			"name": "Veselí nad Lužnici",
+			"ril100": "🇨🇿73552",
+			"group": 1,
+			"x": 1123,
+			"y": 426,
+			"proj": 3,
+			"platformLength": 351,
+			"platforms": 5
+		},
+		{
+			"name": "Řípec",
+			"ril100": "🇨🇿73563",
+			"group": 5,
+			"x": 1125,
+			"y": 424,
+			"proj": 3,
+			"platformLength": 100,
+			"platforms": 1
+		},
+		{
+			"name": "Doňov",
+			"ril100": "🇨🇿75672",
+			"group": 2,
+			"x": 1134,
+			"y": 424,
+			"proj": 3,
+			"platformLength": 122,
+			"platforms": 2
+		},
+		{
+			"name": "Kardašova Řečice",
+			"ril100": "🇨🇿75682",
+			"group": 2,
+			"x": 1143,
+			"y": 428,
+			"proj": 3,
+			"platformLength": 100,
+			"platforms": 3
+		},
+		{
+			"name": "Mnich",
+			"ril100": "🇨🇿75692",
+			"group": 5,
+			"x": 1146,
+			"y": 430,
+			"proj": 3,
+			"platformLength": 99,
+			"platforms": 1
+		},
+		{
+			"name": "Děbolín",
+			"ril100": "🇨🇿75702",
+			"group": 5,
+			"x": 1155,
+			"y": 431,
+			"proj": 3,
+			"platformLength": 84,
+			"platforms": 1
+		},
+		{
+			"name": "Jindřichův Hradec",
+			"ril100": "🇨🇿74362",
+			"group": 2,
+			"x": 1163,
+			"y": 433,
+			"proj": 3,
+			"platformLength": 248,
+			"platforms": 4
+		},
+		{
+			"name": "Jarošov nad Nežárkou",
+			"ril100": "🇨🇿O776029989",
+			"group": 2,
+			"x": 1173,
+			"y": 428,
+			"proj": 3,
+			"platformLength": 152,
+			"platforms": 2
+		},
+		{
+			"name": "Popelín",
+			"ril100": "🇨🇿75752",
+			"group": 2,
+			"x": 1186,
+			"y": 422,
+			"proj": 3,
+			"platformLength": 168,
+			"platforms": 3
+		},
+		{
+			"name": "Počátky-Žirovnice",
+			"ril100": "🇨🇿75762",
+			"group": 2,
+			"x": 1191,
+			"y": 419,
+			"proj": 3,
+			"platformLength": 131,
+			"platforms": 2
+		},
+		{
+			"name": "Jihlávka",
+			"ril100": "🇨🇿O7958763952",
+			"group": 2,
+			"x": 1202,
+			"y": 417,
+			"proj": 3,
+			"platformLength": 270,
+			"platforms": 2
+		},
+		{
+			"name": "Horní Cerekev",
+			"ril100": "🇨🇿75802",
+			"group": 2,
+			"x": 1206,
+			"y": 407,
+			"proj": 3,
+			"platformLength": 160,
+			"platforms": 2
+		},
+		{
+			"name": "Švábov",
+			"ril100": "🇨🇿75810",
+			"group": 5,
+			"x": 1210,
+			"y": 406,
+			"proj": 3,
+			"platformLength": 90,
+			"platforms": 1
+		},
+		{
+			"name": "Batelov",
+			"ril100": "🇨🇿75820",
+			"group": 2,
+			"x": 1216,
+			"y": 406,
+			"proj": 3,
+			"platformLength": 358,
+			"platforms": 2
+		},
+		{
+			"name": "Dolní Cerekev",
+			"ril100": "🇨🇿75830",
+			"group": 5,
+			"x": 1224,
+			"y": 402,
+			"proj": 3,
+			"platformLength": 114,
+			"platforms": 1
+		},
+		{
+			"name": "Kostelec u Jihlavy",
+			"ril100": "🇨🇿75840",
+			"group": 2,
+			"x": 1227,
+			"y": 399,
+			"proj": 3,
+			"platformLength": 201,
+			"platforms": 5
+		},
+		{
+			"name": "Rantířov",
+			"ril100": "🇨🇿75860",
+			"group": 2,
+			"x": 1231,
+			"y": 391,
+			"proj": 3,
+			"platformLength": 152,
+			"platforms": 3
+		},
+		{
+			"name": "Jihlava-Staré Hory",
+			"ril100": "🇨🇿34205",
+			"group": 5,
+			"x": 1239,
+			"y": 390,
+			"proj": 3,
+			"platformLength": 100,
+			"platforms": 1
+		},
+		{
+			"name": "Jihlava město",
+			"ril100": "XTJM",
+			"group": 5,
+			"x": 1241,
+			"y": 391,
+			"proj": 3,
+			"platformLength": 120,
+			"platforms": 3
+		},
+		{
+			"name": "Hrdějovice",
+			"ril100": "🇨🇿73462",
+			"group": 5,
+			"x": 1092,
+			"y": 455,
+			"proj": 3,
+			"platformLength": 80,
+			"platforms": 1
+		},
+		{
+			"name": "Hosín",
+			"ril100": "🇨🇿73472",
+			"group": 5,
+			"x": 1089,
+			"y": 453,
+			"proj": 3,
+			"platformLength": 160,
+			"platforms": 1
+		},
+		{
+			"name": "Hluboká nad Vltavou-Zámostí",
+			"ril100": "🇨🇿73482",
+			"group": 2,
+			"x": 1089,
+			"y": 450,
+			"proj": 3,
+			"platformLength": 250,
+			"platforms": 4
+		},
+		{
+			"name": "Chotýčany",
+			"ril100": "🇨🇿73492",
+			"group": 2,
+			"x": 1098,
+			"y": 446,
+			"proj": 3,
+			"platformLength": 115,
+			"platforms": 4
+		},
+		{
+			"name": "Ševětín",
+			"ril100": "🇨🇿73502",
+			"group": 2,
+			"x": 1104,
+			"y": 442,
+			"proj": 3,
+			"platformLength": 255,
+			"platforms": 3
+		},
+		{
+			"name": "Neplachov",
+			"ril100": "🇨🇿73512",
+			"group": 5,
+			"x": 1108,
+			"y": 438,
+			"proj": 3,
+			"platformLength": 90,
+			"platforms": 2
+		},
+		{
+			"name": "Dynín zastávka",
+			"ril100": "🇨🇿74531",
+			"group": 5,
+			"x": 1110,
+			"y": 435,
+			"proj": 3,
+			"platformLength": 90,
+			"platforms": 2
+		},
+		{
+			"name": "Horusice",
+			"ril100": "🇨🇿73532",
+			"group": 5,
+			"x": 1116,
+			"y": 431,
+			"proj": 3,
+			"platformLength": 90,
+			"platforms": 2
+		},
+		{
+			"name": "Veselí nad Lužnicí zastávka",
+			"ril100": "🇨🇿73542",
+			"group": 5,
+			"x": 1120,
+			"y": 429,
+			"proj": 3,
+			"platformLength": 218,
+			"platforms": 2
+		},
+		{
+			"name": "Řípec-Dráchov",
+			"ril100": "🇨🇿73562",
+			"group": 5,
+			"x": 1124,
+			"y": 421,
+			"proj": 3,
+			"platformLength": 92,
+			"platforms": 2
+		},
+		{
+			"name": "Soběslav",
+			"ril100": "🇨🇿73572",
+			"group": 2,
+			"x": 1124,
+			"y": 416,
+			"proj": 3,
+			"platformLength": 302,
+			"platforms": 3
+		},
+		{
+			"name": "Myslkovice",
+			"ril100": "🇨🇿O8278603034",
+			"group": 6,
+			"x": 1125,
+			"y": 409,
+			"proj": 3
+		},
+		{
+			"name": "Doubí u Tábora",
+			"ril100": "🇨🇿73592",
+			"group": 5,
+			"x": 1123,
+			"y": 405,
+			"proj": 3,
+			"platformLength": 192,
+			"platforms": 1
+		},
+		{
+			"name": "Planá nad Lužnicí",
+			"ril100": "🇨🇿73602",
+			"group": 2,
+			"x": 1121,
+			"y": 400,
+			"proj": 3,
+			"platformLength": 220,
+			"platforms": 3
+		},
+		{
+			"name": "Sezimovo Ústí",
+			"ril100": "XTSZ",
+			"group": 5,
+			"x": 1120,
+			"y": 395,
+			"proj": 3,
+			"platformLength": 220,
+			"platforms": 2
+		},
+		{
+			"name": "Tábor-Čápův Dvůr",
+			"ril100": "🇨🇿73613",
+			"group": 5,
+			"x": 1119,
+			"y": 393,
+			"proj": 3,
+			"platformLength": 140,
+			"platforms": 2
+		},
+		{
+			"name": "Tábor",
+			"ril100": "XTT",
+			"group": 1,
+			"x": 1117,
+			"y": 390,
+			"proj": 3,
+			"platformLength": 350,
+			"platforms": 5
+		},
+		{
+			"name": "Včelná",
+			"ril100": "🇨🇿75352",
+			"group": 5,
+			"x": 1088,
+			"y": 471,
+			"proj": 3,
+			"platformLength": 120,
+			"platforms": 1
+		},
+		{
+			"name": "Kamenný Újezd u Českých Budějovic",
+			"ril100": "🇨🇿75332",
+			"group": 2,
+			"x": 1088,
+			"y": 477,
+			"proj": 3,
+			"platformLength": 133,
+			"platforms": 2
+		},
+		{
+			"name": "Holkov",
+			"ril100": "🇨🇿75312",
+			"group": 2,
+			"x": 1088,
+			"y": 483,
+			"proj": 3,
+			"platformLength": 120,
+			"platforms": 3
+		},
+		{
+			"name": "Velešín",
+			"ril100": "🇨🇿75292",
+			"group": 2,
+			"x": 1086,
+			"y": 489,
+			"proj": 3,
+			"platformLength": 197,
+			"plaforms": 3
+		},
+		{
+			"name": "Výheň",
+			"ril100": "🇨🇿75282",
+			"group": 5,
+			"x": 1091,
+			"y": 494,
+			"proj": 3,
+			"platformLength": 120,
+			"platforms": 1
+		},
+		{
+			"name": "Kaplice",
+			"ril100": "🇨🇿75272",
+			"group": 2,
+			"x": 1091,
+			"y": 496,
+			"proj": 3,
+			"platformLength": 215,
+			"platforms": 4
+		},
+		{
+			"name": "Omlenice",
+			"ril100": "🇨🇿75262",
+			"group": 2,
+			"x": 1088,
+			"y": 505,
+			"proj": 3,
+			"platformLength": 132,
+			"platforms": 3
+		},
+		{
+			"name": "Bujanov",
+			"ril100": "🇨🇿75252",
+			"group": 5,
+			"x": 1086,
+			"y": 508,
+			"proj": 3,
+			"platformLength": 116,
+			"platforms": 1
+		},
+		{
+			"name": "Pšenice",
+			"ril100": "🇨🇿75242",
+			"group": 5,
+			"x": 1088,
+			"y": 512,
+			"proj": 3,
+			"platformLength": 110,
+			"platforms": 1
+		},
+		{
+			"name": "Rybník",
+			"ril100": "🇨🇿75232",
+			"group": 2,
+			"x": 1086,
+			"y": 517,
+			"proj": 3,
+			"platformLength": 182,
+			"platforms": 5
+		},
+		{
+			"name": "Horní Dvořiště",
+			"ril100": "XTHD",
+			"group": 2,
+			"x": 1085,
+			"y": 525,
+			"proj": 3,
+			"platformLength": 227,
+			"platforms": 2
+		},
+		{
+			"name": "Summerau",
+			"ril100": "XASUM",
+			"group": 2,
+			"x": 1089,
+			"y": 533,
+			"proj": 3,
+			"platformLength": 210,
+			"platforms": 3
+		},
+		{
+			"name": "Freistadt",
+			"ril100": "🇦🇹01583",
+			"group": 2,
+			"x": 1094,
+			"y": 543,
+			"proj": 3,
+			"platformLength": 181,
+			"platforms": 3
+		},
+		{
+			"name": "Lasberg-St. Oswald",
+			"ril100": "🇦🇹O334871746",
+			"group": 5,
+			"x": 1099,
+			"y": 549,
+			"proj": 3,
+			"platformLength": 151,
+			"platforms": 1
+		},
+		{
+			"name": "Kefermarkt",
+			"ril100": "🇦🇹O157708008",
+			"group": 2,
+			"x": 1102,
+			"y": 553,
+			"proj": 3,
+			"platformLength": 204,
+			"platforms": 2
+		},
+		{
+			"name": "Pregarten",
+			"ril100": "XAPR",
+			"group": 2,
+			"x": 1100,
+			"y": 566,
+			"proj": 3,
+			"platformLength": 222,
+			"platforms": 2
+		},
+		{
+			"name": "Schloß Haus",
+			"ril100": "🇦🇹O261227970",
+			"group": 5,
+			"x": 1098,
+			"y": 569,
+			"proj": 3,
+			"platformLength": 193,
+			"platforms": 3
+		},
+		{
+			"name": "Gaisbach-Wartberg",
+			"ril100": "🇦🇹O6844641425",
+			"group": 2,
+			"x": 1098,
+			"y": 571,
+			"proj": 3,
+			"platformLength": 189,
+			"platforms": 2
+		},
+		{
+			"name": "Katsdorf",
+			"ril100": "🇦🇹O157707258",
+			"group": 5,
+			"x": 1096,
+			"y": 574,
+			"proj": 3,
+			"platformLength": 158,
+			"platforms": 1
+		},
+		{
+			"name": "Lungitz",
+			"ril100": "🇦🇹O158868668",
+			"group": 2,
+			"x": 1094,
+			"y": 578,
+			"proj": 3,
+			"platformLength": 190,
+			"platforms": 2
+		},
+		{
+			"name": "St. Georgen an der Gusen Ort",
+			"ril100": "🇦🇹O148901378",
+			"group": 5,
+			"x": 1090,
+			"y": 581,
+			"proj": 3,
+			"platformLength": 191,
+			"platforms": 1
+		},
+		{
+			"name": "St. Georgen an der Gusen Bahnhof",
+			"ril100": "🇦🇹O158869023",
+			"group": 2,
+			"x": 1089,
+			"y": 581,
+			"proj": 3,
+			"platformLength": 234,
+			"platforms": 2
+		},
+		{
+			"name": "Pulgarn",
+			"ril100": "🇦🇹O616023441",
+			"group": 5,
+			"x": 1082,
+			"y": 579,
+			"proj": 3,
+			"platformLength": 190,
+			"platforms": 1
+		},
+		{
+			"name": "Steyregg",
+			"ril100": "🇦🇹O7645724300",
+			"group": 2,
+			"x": 1078,
+			"y": 578,
+			"proj": 3,
+			"platformLength": 217,
+			"platforms": 2
+		},
+		{
+			"name": "Linz Franckstraße",
+			"ril100": "🇦🇹O3774599640",
+			"group": 2,
+			"x": 1073,
+			"y": 578,
+			"proj": 3,
+			"platformLength": 249,
+			"platforms": 2
 		},
 		{
 			"group": 5,
